@@ -53,7 +53,7 @@
 
     <div id="content" role="main">
         <section class="row colset-2-its">
-            <h1>foo.bar is <g:meta name="foo.bar"/></h1>
+            <h1>foo.bar is <build:meta name="foo.bar"/></h1>
         </section>
     </div>
 
